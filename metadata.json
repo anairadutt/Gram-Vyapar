@@ -1,0 +1,6 @@
+{
+  "name": "Udyam Sahayak",
+  "description": "AI-powered MSME Registration, Government Scheme Finder, and Business Assistant for Indian entrepreneurs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
